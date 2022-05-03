@@ -8,10 +8,10 @@ Tic Tac Toe is a two player game which is played in any square grid. Tic Tac Toe
 #### Algorithms used:
 We have created four Agents to play against each other.
 
-#### Minimax Agent
-#### Alpha beta Minimax Agent
-#### Expectimax Agent
-#### Q-Learning Agent
+#### 1. Minimax Agent
+#### 2. Alpha beta Minimax Agent
+#### 3. Expectimax Agent
+#### 4. Q-Learning Agent
 
 ### Minimax Algorithm:
 Minimax is a backtracking algorithm which is commonly used in decision making and game theory especially in 2-player zero sum games to make an optimal move. In Minimax tree representation each node will be a game state upon some action performed. It has recursive layers of max and min layers where maximizer tries to maximize the outcome for player and minimizer tries to sabotages the outcome of the player
