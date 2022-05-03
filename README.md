@@ -1,17 +1,18 @@
-#### TicTacToe
-Final project - AI graduate course
+### TicTacToe - AI Final project
 
-Implementation of Multiple Tic Tac Toe Agents in a Tournament setting
-Introduction:
+### Implementation of Multiple Tic Tac Toe Agents in a Tournament setting
+
+#### Introduction:
 Tic Tac Toe is a two player game which is played in any square grid. Tic Tac Toe is a Zero sum game where win of player1 is a loss of player2. Usually it is played by placing either X or O in the grid. If Player1 gets key X then player2 gets key O. If any player achieves their key in any all the cells of any row or column or diagonal then that player wins.
 
-Algorithms used:
+#### Algorithms used:
 We have created four Agents to play against each other.
 
 Minimax Agent
 Alpha beta Minimax Agent
 Expectimax Agent
 Q-Learning Agent
+
 Minimax Algorithm:
 Minimax is a backtracking algorithm which is commonly used in decision making and game theory especially in 2-player zero sum games to make an optimal move. In Minimax tree representation each node will be a game state upon some action performed. It has recursive layers of max and min layers where maximizer tries to maximize the outcome for player and minimizer tries to sabotages the outcome of the player
 
