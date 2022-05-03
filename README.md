@@ -26,9 +26,9 @@ This is also similar to Minimax but other than Minimizer we have chance node whi
 Q-Learning is reinforcement-based algorithm where initially agent has no idea about the environment. It learns about the environment by playing few games and getting rewards. By obtaining rewards agent realise which move is good and which is not. This Agent should be trained with game environment before it can be played with other players in tournament.
 
 ### Instructions to run code:
-Run the file multiagent_tictactoe.py
-Enter agent1 and agent2 as shown in the console and see how the agents play.
-Run multiple times and check with multiple agents to compare which agent plays the game better.
-Make sure you select 2 different agents for Tic-Tac-Toe game.
+####Run the file multiagent_tictactoe.py
+####Enter agent1 and agent2 as shown in the console and see how the agents play.
+####Run multiple times and check with multiple agents to compare which agent plays the game better.
+####Make sure you select 2 different agents for Tic-Tac-Toe game.
 
 ### YouTube Video Link: 
